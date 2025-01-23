@@ -1,10 +1,13 @@
 ##  cakşı ba!, günaydın. yahshi misiz? 👋
 
 
-🖥️ First PC:  Cyrix 486DX2-v66,4mb ram,130mb hdd,MS-DOS 3.30
-💾 I've been writing code since gwbasic,q basic,pascal, fortran, ansi c, c++, delphi, after y2k -> Java, vb, vb.net, Javascript, Typescript, Nodejs, Java(8,11,17,21)   
-💬 Skills on RDMS,dwh,etl,dba:  Oracle MS sql srv, mysql,mongo, postgres,
-💬 Worked for Oracle, Ericsson, Vodafone, Aws, finance sector, colsuntancy
+-🖥️ First PC:  Cyrix 486DX2-v66,4mb ram,130mb hdd,MS-DOS 3.30
+
+-💾 I've been writing code since gwbasic,q basic,pascal, fortran, ansi c, c++, delphi, after y2k -> Java, vb, vb.net, Javascript, Typescript, Nodejs, Java(8,11,17,21)   
+
+-💬 Skills on RDMS,dwh,etl,dba:  Oracle MS sql srv, mysql,mongo, postgres,
+
+-⚡ Worked for Oracle, Ericsson, Vodafone, Aws, finance sector, colsuntancy
 
 <!--
 **levent-aysan/levent-aysan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
